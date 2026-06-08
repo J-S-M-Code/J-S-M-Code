@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joaquin Suilar Murcia</h1>
-<h3 align="center">I am a systems engineering student</h3>
+<h3 align="center">I am a systems engineering student, Data Science Jr. and electromechanical technician</h3>
 
 - 🐄 My personal (and favorite) work [AgroTrack](https://github.com/J-S-M-Code/AgroTrack-agricultural-tracking-system)
 
