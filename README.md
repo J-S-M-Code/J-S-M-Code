@@ -3,9 +3,9 @@
 
 - 🐄 My personal (and favorite) work [AgroTrack](https://github.com/J-S-M-Code/AgroTrack-agricultural-tracking-system)
 
-- 🌱 I’m currently learning **Frontend (Angular)**
+- 🌱 I’m currently learning **Mobile (Ionic)** 
 
-- 📚 My last job at university [Frontend-tareas-proyectos](https://github.com/J-S-M-Code/frontend-tareas-proyectos)
+- 📚 My last job at university []()
 
 - 📫 How to reach me **joacosuilar@gmail.com**
 
